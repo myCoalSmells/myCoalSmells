@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I enjoy solving useful problems with code</h3>
+<h3 align="center">I enjoy creating meaningful impact code</h3>
 
 - 📫 How to reach me **michael.liu.mike@gmail.com**
 
