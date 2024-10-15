@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">More than anything, I want to use technology to create a profound and positive impact on the community around me. It’s why I create iOS games that nurture social connections, develop apps for UCLA’s biggest radio platform, and push the boundaries of medical diagnostics with machine learning research. In a world where resources are scarce, I’m driven by the power of code to transform what little we have into wide-reaching, transformative solutions.</h3>
+<h3 align="center">I enjoy solving useful problems with code</h3>
 
 - 📫 How to reach me **michael.liu.mike@gmail.com**
 
