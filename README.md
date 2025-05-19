@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I enjoy creating meaningful impact thru the power of code</h3>
+<h3 align="center">i like coding because of the problems it can solve</h3>
 
 - 📫 How to reach me **michael.liu.mike@gmail.com**
 
